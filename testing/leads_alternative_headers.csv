@@ -1,0 +1,9 @@
+contact_name,work_email,mobile_number,organization,web_url,designation,sector,city_state,overview
+Victoria Sterling (Test),victoria@sterling-ai.com,+14155550233,Sterling AI Labs,https://sterling-ai.com,VP of Artificial Intelligence,Technology & Software,San Francisco CA,Enterprise generative AI copilots and workflow automation software
+Jonathan Reed (Test),jreed@quantumbank.com,+442079460888,Quantum Banking Group,https://quantumbank.com,Managing Director FinTech,Financial Services & Fintech,London UK,Digital retail banking platform and automated credit underwriting systems
+Dr. Helena Frost (Test),hfrost@nordichealth.se,+46812345678,Nordic Health Technologies,https://nordichealth.se,Head of Diagnostics,Healthcare & Life Sciences,Stockholm Sweden,Remote patient diagnostics and cloud-connected medical IoT devices
+Gabriel Silva (Test),gabriel@saopaulocargo.br,+5511987654321,Sao Paulo Cargo Logistics,https://saopaulocargo.br,Operations Director,Logistics & Supply Chain,Sao Paulo Brazil,South American freight forwarding and refrigerated cold chain logistics
+Chloe Deschanel (Test),chloe.d@ateliercouture.fr,+33145678901,Atelier Couture Paris,https://ateliercouture.fr,E-Commerce Director,Retail & E-commerce,Paris France,High-fashion apparel brand offering direct-to-consumer digital shopping
+Tariq Mansour (Test),tariq@cairoconsulting.eg,+20223456789,Cairo Strategy Partners,https://cairoconsulting.eg,Principal Advisory Lead,Professional Services & Consulting,Cairo Egypt,Regional management and corporate restructuring advisory firm
+Samantha Fox (Test Duplicate),sophia.patel@stripe.com,+14155550123,Stripe,https://stripe.com,Account Executive,Technology & Software,San Francisco CA,Duplicate test record matching Sophia Patel's email and phone
+Broken Record (Test),not-a-valid-email-string,00000000,Broken Org,,Tester,Testing,Nowhere,Defective lead to test rejection tracking
